@@ -1,0 +1,6 @@
+{
+	"token": "INSERT YOUR BOT TOKEN HERE",
+	"clientId": "INSERT YOUR BOT clientId",
+	"guildId": "INSERT YOUR SERVER ID",
+	"channelId": "INSERT THE CHANNEL ID YOU WANT THE BOT TO NOTIFY"
+}
